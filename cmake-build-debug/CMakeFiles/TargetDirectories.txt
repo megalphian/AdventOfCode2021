@@ -1,3 +1,0 @@
-/Users/megnath/git/Advent2021/cmake-build-debug/CMakeFiles/rebuild_cache.dir
-/Users/megnath/git/Advent2021/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/megnath/git/Advent2021/cmake-build-debug/CMakeFiles/Advent2021.dir
