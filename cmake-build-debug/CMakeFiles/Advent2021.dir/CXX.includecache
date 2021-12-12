@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/megnath/git/Advent2021/aoc1.cpp
+aoc1.h
+/Users/megnath/git/Advent2021/aoc1.h
+utils.h
+/Users/megnath/git/Advent2021/utils.h
+
+/Users/megnath/git/Advent2021/aoc1.h
+iostream
+-
+fstream
+-
+string
+-
+vector
+-
+
+/Users/megnath/git/Advent2021/main.cpp
+iostream
+-
+aoc1.h
+/Users/megnath/git/Advent2021/aoc1.h
+
+/Users/megnath/git/Advent2021/utils.h
+vector
+-
+string
+-
+algorithm
+-
+sstream
+-
+iterator
+-
+iostream
+-
+
